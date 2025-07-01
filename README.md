@@ -1,2 +1,2 @@
-# nvim-config
-Nvim, саляночка-конфигурация для ts|js|eslint|tslint|c|c++
+# vim-config
+Для моейго комфорта при работе vim-конфиг и быстрый конфиг для установки для c|c++|python|bash
